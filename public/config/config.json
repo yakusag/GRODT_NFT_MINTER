@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x93fb5fac78e76e1e2c34ff12c76a8ca7c19ddfe9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x93fb5fac78e76e1e2c34ff12c76a8ca7c19ddfe9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "GRODT NFT Collection",
+  "SYMBOL": "GRODTNFT",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "mintgate",
+  "MARKETPLACE_LINK": "https://grodt.mintgate.io",
+  "SHOW_BACKGROUND": true
+}
